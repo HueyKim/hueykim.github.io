@@ -42,6 +42,28 @@ items:
 
 title2: Industry  Project
 items2:
+
+  - title: <a href="/assets/pdf/project/Industry _Project4.pdf" target="_blank/"> 자연어 기반 로봇 제어와 Human-Robot Interaction 기술 연구 개발 </a>
+    image:
+      src: /assets/img/work/industy_4_aeirobot.png
+      alt: mh
+    description: |  
+      <br> 근무처 : 에이로봇
+      <br> 수행기간 : 2025.03.17~
+      <br> 참여역할 : LLM 직원 교육, 로봇 Agent 개발, Agent fine tuning
+      <br> <strong> #Autonomous Human-Robot Interaction #LLM #Agent #Robot</strong>
+      
+  - title: <a href="/assets/pdf/project/Industry _Project3.pdf" target="_blank/"> 자연어 기반 로봇 제어와 Human-Robot Interaction 기술 연구 개발 </a>
+    image:
+      src: /assets/img/work/industy_3_pinklab.png
+      alt: mh
+    description: |  
+      <br> 발주처 : 에이로봇 
+      <br> 근무처 : 핑크랩
+      <br> 수행기간 : 2025.01.16-2025.03.14
+      <br> 참여역할 : LLM 직원 교육, 로봇 Agent 개발, LLM fine tuning
+      <br> <strong> #Autonomous Human-Robot Interaction #LLM #Agent #Robot</strong>
+      
   - title: <a href="/assets/pdf/project/Industry _Project1.pdf" target="_blank/"> 골프 트레이닝을 위한 인공지능 기반 골프 스윙 분석 알고리즘 개발 </a>
     image:
       src: /assets/img/work/industy_1_golf.png

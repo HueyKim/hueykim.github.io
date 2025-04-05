@@ -36,7 +36,7 @@ profile_picture:
 </p>
 <hr id="short-bio-divider"> <!-- 가로선 추가 -->
 <p>
-Mar. 2025 Joined the Arobot <br>
+Mar. 2025 Joined the AeiROBOT <br>
 Jan. 2025 Joined the PinkLab R&D Center <br>
 Jan. 2025 Establishment of the <a href="https://www.youtube.com/@IsaacSimKR" target="_blank">Isaac Sim KR</a> Group <br>
 Dec. 2024 Completed Robot&AI training program organized by XYZ&PinkLAB&ADDinEDU <br>
