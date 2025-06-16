@@ -36,13 +36,10 @@ profile_picture:
 </p>
 <hr id="short-bio-divider"> <!-- 가로선 추가 -->
 <p>
-<ul>
-  <li>Jun 14, 2025: Participated in the Hugging Face LeRobot Worldwide 24h Hackathon</li>
-  <li>Mar 19, 2025: Joined the <a href="https://www.arobot4all.com" target="_blank">AeiROBOT</a> as Robot AI Researcher</li>
-  <li>Jan 16, 2025: Joined the <a href="https://pinklab.art" target="_blank">PinkLAB</a> as Robot AI Researcher</li>
-  <li>Jan 5, 2025: Founded the <a href="https://www.youtube.com/@IsaacSimKR" target="_blank">Isaac Sim KR</a> Group</li>
-  <li>Dec 27, 2024: Completed the Robot & AI training program organized by <a href="https://xyzcorp.io" target="_blank">XYZ</a>, PinkLAB, and ADDinEDU</li>
-</ul>
+Jun 14, 2025: Participated in the Hugging Face LeRobot Worldwide 24h Hackathon
+Mar 19, 2025: Joined the <a href="https://www.arobot4all.com" target="_blank">AeiROBOT</a> as Robot AI Researcher
+Jan 16, 2025: Joined the <a href="https://pinklab.art" target="_blank">PinkLAB</a> as Robot AI Researche
+Jan. 2025 Joined the <a href="https://pinklab.art" target="_blank">PinkLab</a> R&D Center <br>
+Jan 5, 2025: Founded the <a href="https://www.youtube.com/@IsaacSimKR" target="_blank">Isaac Sim KR</a> Group <br>
+Dec 27, 2024: Completed the Robot & AI training program organized by <a href="https://xyzcorp.io" target="_blank">XYZ</a>, PinkLAB, and ADDinEDU <br>
 </p>
-
-
