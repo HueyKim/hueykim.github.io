@@ -43,8 +43,12 @@ og_image: https://postimg.cc/bDL9Q58F
 
 ![Image](https://github.com/user-attachments/assets/5c590184-2941-454e-9585-fff572b3348c)
 
+
 <img src="https://github.com/user-attachments/assets/5c590184-2941-454e-9585-fff572b3348c" width="500"/>
 
+[![Image](https://github.com/user-attachments/assets/5c590184-2941-454e-9585-fff572b3348c)](https://github.com/user-attachments/assets/5c590184-2941-454e-9585-fff572b3348c)
+
+[![Kakao-Talk-20250622-133620649.png](https://i.postimg.cc/fy2gKFCR/Kakao-Talk-20250622-133620649.png)](https://postimg.cc/YLF32dT5)
 
 우리의 로봇과 테스크가 기사 썸네일로 대표되었다.
 
