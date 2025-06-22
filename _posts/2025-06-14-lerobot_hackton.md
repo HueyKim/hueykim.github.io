@@ -37,3 +37,14 @@ og_image: https://postimg.cc/bDL9Q58F
 <br>
 
 <img src="https://github.com/user-attachments/assets/bd0eee41-c2ed-4e6b-b4ff-c1c736c28c3f" width="500"/>
+
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/5c590184-2941-454e-9585-fff572b3348c" width="500"/>
+
+
+우리의 로봇과 테스크가 기사 썸네일로 대표되었다.
+
+[기사 보기](https://www.kmjournal.net/news/articleView.html?idxno=1703
+)
