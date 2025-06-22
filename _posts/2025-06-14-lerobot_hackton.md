@@ -46,7 +46,7 @@ og_image: https://postimg.cc/bDL9Q58F
 
 <img src="https://github.com/user-attachments/assets/5c590184-2941-454e-9585-fff572b3348c" width="500"/>
 
-[![Image](https://github.com/user-attachments/assets/5c590184-2941-454e-9585-fff572b3348c)](https://github.com/user-attachments/assets/5c590184-2941-454e-9585-fff572b3348c)
+[![Image](https://github-production-user-asset-6210df.s3.amazonaws.com/176743495/457648990-5c590184-2941-454e-9585-fff572b3348c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250622T130601Z&X-Amz-Expires=300&X-Amz-Signature=c4e8bea25fb763ba59d2f65cc31cfd71e77a64cb38cbcac8537e9a0fb00d1eac&X-Amz-SignedHeaders=host)](https://github.com/user-attachments/assets/5c590184-2941-454e-9585-fff572b3348c)
 
 [![Kakao-Talk-20250622-133620649.png](https://i.postimg.cc/fy2gKFCR/Kakao-Talk-20250622-133620649.png)](https://postimg.cc/YLF32dT5)
 
