@@ -11,7 +11,7 @@ profile_picture:
    Master's Graduate <br>from the <a href="http://pr.korea.ac.kr/" target="_blank">Pattern Recognition & Machine Learning (PRML) Laboratory</a> at <a href="https://www.korea.ac.kr/">Korea University</a>, <br> currently seeking job opportunities.
 </p> 
 <p>
-  <a href="/assets/pdf/resume.pdf" target="_blank">이력서</a> /  <a href="/assets/pdf/portfolio.pdf" target="_blank">포트폴리오</a> / <a href="https://github.com/khw11044" target="_blank">Github</a> / <a href="https://www.linkedin.com/in/hyunwoo-kim-35a441205/" target="_blank">LinkedIn</a> / <a href="https://scholar.google.co.kr/citations?user=FhdyFDMAAAAJ&hl=ko&authuser=1" target="_blank">Google Scholar</a><br>
+  <a href="/assets/pdf/resume.pdf" target="_blank">CV</a> /  <a href="/assets/pdf/portfolio.pdf" target="_blank">Portfolio</a> / <a href="https://github.com/khw11044" target="_blank">Github</a> / <a href="https://www.linkedin.com/in/hyunwoo-kim-35a441205/" target="_blank">LinkedIn</a> / <a href="https://scholar.google.co.kr/citations?user=FhdyFDMAAAAJ&hl=ko&authuser=1" target="_blank">Google Scholar</a><br>
   <a href="https://hyundoil.tistory.com/" target="_blank">My Skill Blog</a> <br>
 </p>
 <p>
@@ -38,9 +38,8 @@ profile_picture:
 <p>
 Jun 14, 2025: Participated in the <a href="https://hueykim.github.io/2025/06/14/lerobot_hackton" target="_blank">Hugging Face LeRobot Worldwide 24h Hackathon</a> <br>
 Mar 19, 2025: Joined the <a href="https://www.arobot4all.com" target="_blank">AeiROBOT</a> as Robot AI Researcher <br>
-Jan 16, 2025: Joined the <a href="https://pinklab.art" target="_blank">PinkLAB</a> as Robot AI Researcher <br>
-Jan. 2025 Joined the <a href="https://pinklab.art" target="_blank">PinkLab</a> R&D Center <br>
+Jan 16, 2025: Joined the <a href="https://pinklab.art" target="_blank">PinkLAB</a> R&D Center as Robot AI Researcher <br>
 Jan 5, 2025: Founded the <a href="https://www.youtube.com/@IsaacSimKR" target="_blank">Isaac Sim KR</a> Group <br>
-Dec 27, 2024: Completed the Robot & AI training program organized by <a href="https://xyzcorp.io" target="_blank">XYZ</a>, PinkLAB, and ADDinEDU <br>
+Dec 27, 2024: Completed the Robot & AI training program organized by <a href="https://xyzcorp.io" target="_blank">XYZ</a>, <a href="https://pinklab.art" target="_blank">PinkLAB</a> <br>
 </p>
 
