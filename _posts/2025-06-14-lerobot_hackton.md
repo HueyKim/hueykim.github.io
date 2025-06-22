@@ -47,5 +47,8 @@ og_image: https://postimg.cc/bDL9Q58F
 
 우리의 로봇과 테스크가 기사 썸네일로 대표되었다.
 
+
+![Image](https://github-production-user-asset-6210df.s3.amazonaws.com/176743495/457650032-f5657ac7-4113-47cd-a0f1-6b74a18f608d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250622T131545Z&X-Amz-Expires=300&X-Amz-Signature=8698f799db0cd2eae945f3c16cfc40eb9b8bf5db8f1edbfc202821ef8ed80726&X-Amz-SignedHeaders=host)
+
 [기사 보기](https://www.kmjournal.net/news/articleView.html?idxno=1703
 )
