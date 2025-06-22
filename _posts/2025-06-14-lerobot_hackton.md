@@ -42,16 +42,8 @@ og_image: https://postimg.cc/bDL9Q58F
 <br>
 
 
-![Image1](https://github.com/user-attachments/assets/73a821ec-9f9b-41ed-9117-d662a834ca63)
+![증명서](https://github-production-user-asset-6210df.s3.amazonaws.com/176743495/457649724-73a821ec-9f9b-41ed-9117-d662a834ca63.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250622T131430Z&X-Amz-Expires=300&X-Amz-Signature=5e03396a65c4c15ed345fda890479c33d0db2ee96dcd4a4b2796ce7ce630d45e&X-Amz-SignedHeaders=host)
 
-[![Image1](https://github.com/user-attachments/assets/73a821ec-9f9b-41ed-9117-d662a834ca63)
-](https://github.com/user-attachments/assets/73a821ec-9f9b-41ed-9117-d662a834ca63)
-
-<img src="https://github.com/user-attachments/assets/5c590184-2941-454e-9585-fff572b3348c" width="500"/>
-
-[![Image](https://github-production-user-asset-6210df.s3.amazonaws.com/176743495/457648990-5c590184-2941-454e-9585-fff572b3348c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250622T130601Z&X-Amz-Expires=300&X-Amz-Signature=c4e8bea25fb763ba59d2f65cc31cfd71e77a64cb38cbcac8537e9a0fb00d1eac&X-Amz-SignedHeaders=host)](https://github-production-user-asset-6210df.s3.amazonaws.com/176743495/457648990-5c590184-2941-454e-9585-fff572b3348c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250622T130601Z&X-Amz-Expires=300&X-Amz-Signature=c4e8bea25fb763ba59d2f65cc31cfd71e77a64cb38cbcac8537e9a0fb00d1eac&X-Amz-SignedHeaders=host)
-
-[![Kakao-Talk-20250622-133620649.png](https://i.postimg.cc/fy2gKFCR/Kakao-Talk-20250622-133620649.png)](https://postimg.cc/YLF32dT5)
 
 우리의 로봇과 테스크가 기사 썸네일로 대표되었다.
 
