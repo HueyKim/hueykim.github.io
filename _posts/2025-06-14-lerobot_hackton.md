@@ -12,7 +12,7 @@ og_image: https://postimg.cc/bDL9Q58F
 
 ![포스터](https://github-production-user-asset-6210df.s3.amazonaws.com/176743495/457651215-2c5fced3-cadf-440a-a075-85a77528639c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250622T133209Z&X-Amz-Expires=300&X-Amz-Signature=4802e9150e74b9d20d7f1056afd9a8dfadd0d639004e1996d7ae2e24f875c87c&X-Amz-SignedHeaders=host)
 
-
+대회 포스터
 
 
 <br>
