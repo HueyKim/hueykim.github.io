@@ -53,3 +53,9 @@ og_image: https://postimg.cc/bDL9Q58F
 
 [![기사보기](https://github-production-user-asset-6210df.s3.amazonaws.com/176743495/457650032-f5657ac7-4113-47cd-a0f1-6b74a18f608d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250622T131545Z&X-Amz-Expires=300&X-Amz-Signature=8698f799db0cd2eae945f3c16cfc40eb9b8bf5db8f1edbfc202821ef8ed80726&X-Amz-SignedHeaders=host)](https://www.kmjournal.net/news/articleView.html?idxno=1703)
 
+당시 생생한 현장을 담은 유튜브 영상 보러 가기 👉 [유튜브 영상](https://www.youtube.com/watch?v=HgN0qIFSd8I&t=204s)
+
+
+![유튜브 영상](https://github-production-user-asset-6210df.s3.amazonaws.com/176743495/457650760-5bace80c-54f9-4398-bae3-9c3f9745233c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250622T132612Z&X-Amz-Expires=300&X-Amz-Signature=bd03cedb31145a5a97d1b0f9f389cd4f0e286ff1c1c7d8c46a35c30980af564e&X-Amz-SignedHeaders=host)
+
+
