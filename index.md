@@ -38,7 +38,7 @@ profile_picture:
 <p>
 Nov 4, 2025: Participated in the <a href="https://hueykim.github.io/2025/11/4/Robotworld_2025" target="_blank">2025 Robotworld</a> <br>
 Oct 21, 2025: Participated in the <a href="https://hueykim.github.io/2025/10/21/FIX_2025" target="_blank">2025 FIX</a> <br>
-Sep 30, 2025: Participated in the <a href="https://hueykim.github.io/2025/09/30/Humanoids_N_CORL_2025" target="_blank">2025 Humanoids & CORL</a> <br>
+Sep 30, 2025: Participated in the <a href="https://hueykim.github.io/2025/09/30/Humanoids_N_CoRL_2025" target="_blank">2025 Humanoids & CoRL</a> <br>
 Jun 14, 2025: Participated in the <a href="https://hueykim.github.io/2025/06/14/lerobot_hackton" target="_blank">Hugging Face LeRobot Worldwide 24h Hackathon</a> <br>
 Mar 19, 2025: Joined the <a href="https://www.arobot4all.com" target="_blank">AeiROBOT</a> as Robot AI Researcher <br>
 Jan 16, 2025: Joined the <a href="https://pinklab.art" target="_blank">PinkLAB</a> R&D Center as Robot AI Researcher <br>

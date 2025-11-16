@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "HUMANOIDS 2025 & CORL 2025"
+title:  "HUMANOIDS 2025 & CoRL 2025"
 date:   2025-09-30 09:00:00
-blurb: "HUMANOIDS 2025 & CORL 2025"
+blurb: "HUMANOIDS 2025 & CoRL 2025"
 og_image: https://postimg.cc/9D8zxPy2
 ---
 
 2025년 9월 30일부터 10월 2일까지 진행한
-HUMANOIDS 2025 와 CORL 2025를 AeiRobot 소속으로 참가하였습니다. 
+HUMANOIDS 2025 와 CoRL 2025를 AeiRobot 소속으로 참가하였습니다. 
 
 
 <br>
