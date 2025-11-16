@@ -29,7 +29,8 @@ HUMANOIDS 2025 와 CORL 2025를 AeiRobot 소속으로 참가하였습니다.
 
 ## 더 많은 영상
 
-<br>
+당시 생생한 현장을 담은 유튜브 영상 보러 가기 👉 [유튜브 영상](https://www.youtube.com/watch?v=5mUs3-qo8Y8)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5mUs3-qo8Y8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
