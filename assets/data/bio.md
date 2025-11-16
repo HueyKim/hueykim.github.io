@@ -1,5 +1,5 @@
 <!-- Korean -->
-안녕하세요. **AI로 세상을 변화시키는 HRI 연구원 김현우 입니다.**
+안녕하세요. **AI로 세상을 변화시키는 Physical AI 연구원 김현우 입니다.**
 
 저는 로봇분야의 AI 기술을 통해 사람들의 삶을 변화시키고, 국가 발전에 공헌하는 꿈을 가진 AI Researcher입니다.
 인공지능 석사과정을 통해 다양한 도메인에서 AI 솔루션을 설계하고 구현해왔습니다.
@@ -24,6 +24,3 @@ I aspire to continue creating innovative solutions powered by AI technology to d
 I have experience in **Object Detection, Segmentation&Tracking, 2D/3D HPE, Action Recognition, Temporal Action Localization, RAG, AI Agent, LLM Fine-Tuning, LLM-Agent Fine-Tuning, Agent Fine-Tuning with RL, ROS2, VLA, mobile robot control, and robotic arm control development**. <br>
 Currently, I am deeply interested in AI robotics research and development, and I am committed to growing further in this field. <br>
 For more details about my background, please check the Work tab.
-
-
-[![Kakao-Talk-20250921-213527273.jpg](https://i.postimg.cc/7LmXSkQh/Kakao-Talk-20250921-213527273.jpg)](https://postimg.cc/d7Z8KzFc)
