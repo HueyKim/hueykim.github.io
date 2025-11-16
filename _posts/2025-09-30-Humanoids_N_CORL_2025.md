@@ -31,4 +31,5 @@ HUMANOIDS 2025 와 CORL 2025를 AeiRobot 소속으로 참가하였습니다.
 
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tohNn_aLaGk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5mUs3-qo8Y8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
