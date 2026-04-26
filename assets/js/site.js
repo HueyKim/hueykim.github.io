@@ -116,7 +116,7 @@ $(document).ready(function () {
 
   // Markdown 렌더링 함수
   function renderMarkdown(markdown) {
-    const converter = new showdown.Converter();
+    const converter = new showdown.Converter({ simpleLineBreaks: true });
     const html = converter.makeHtml(markdown);
     bioContainer.html(html);
   }
