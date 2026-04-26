@@ -4,17 +4,22 @@
 
 고려대학교 인공지능학과에서 이성환 교수님의 지도 아래 석사 학위를 받았으며, 컴퓨터비전 분야 세계 6위 게재지인 **Pattern Recognition** (Impact Score: 19.7) 과 15위 게재지인 **ACCV** (Impact Score: 7.5) 에 제1저자로 논문을 게재하였고, ACCV에서는 오랄 발표에까지 선정되었습니다. <br>
 
-타자도 칠 줄 모르던 대학생이 임베디드 소프트웨어 → Vision AI → LLM·RAG·Agent → Physical AI 까지, 끊임없이 새로운 도메인에 도전하며 연구하고 성장해 왔습니다. 이러한 다양한 경험을 바탕으로 핑크랩과 에이로봇에서 Robot AI Researcher로 LLM-Agent 기반 Human-Robot Interaction 시스템을 직접 설계하고 구현하였습니다. <br>
+타자도 칠 줄 모르던 대학생이 
+
+Embedded SW → Vision AI → LLM·RAG·Agent → Physical AI 까지, 끊임없이 새로운 도메인에 도전하며 연구하고 성장해 왔습니다. 이러한 다양한 경험을 바탕으로 핑크랩과 에이로봇에서 Robot AI Researcher로 LLM-Agent 기반 Human-Robot Interaction 시스템을 직접 설계하고 구현하였습니다. <br>
 
 현재 저는 2025년 6월에 창립한 **[RoboSEasy](https://roboseasy.ai/)** 의 대표로서, 직접 세운 비전과 미션을 실현해 나가고 있습니다.
 
 > **"기술은 모두의 손에 닿을 때, 발전한다."**
 
-이 비전 아래 저는 세 가지 미션 — **모두를 위한 로봇, 모두를 위한 AI, 그리고 눈이 아닌 손으로** — 을 추구합니다. 학생도 손에 쥘 수 있는 초저가 로봇 플랫폼을 만들고, 어려운 영어 논문과 글로벌 최신 기술을 한국어로 정리해 영어가 진입장벽이 되지 않도록 하며, 직접 조립하고 제어해 보는 경험을 통해 누구나 연구자·개발자로 출발할 수 있게 하는 것. 이것이 제가 RoboSEasy를 통해 만들고 싶은 변화입니다. <br>
+이 비전 아래 저는 다음 세 가지 미션 달성을 목표로 하고 있습니다. \
+**첫째, 모두를 위한 로봇** \
+**둘째, 모두를 위한 AI** \
+**셋째, 눈이 아닌 손으로** 
+
+누구나 쉽게 손에 쥘 수 있는 초저가 로봇 플랫폼을 만들고, 어려운 영어 논문과 글로벌 최신 기술을 한국어로 정리해 영어가 진입장벽이 되지 않도록 하며, 직접 조립하고 제어해 보는 경험을 통해 누구나 연구자·개발자로 출발할 수 있게 하는 것. 이것이 제가 RoboSEasy를 통해 만들고 싶은 변화입니다. <br>
 
 궁극적으로 저의 꿈은 **기술 지체 없는 대한민국, Physical AI 주권을 가진 나라, 그리고 IT 강국을 넘어 Physical AI 강국이 되는 대한민국**을 만드는 데 기여하는 것입니다. 저의 연구와 개발, 그리고 RoboSEasy의 모든 활동이 더 많은 사람들에게 실질적인 도움이 되고, 국가 발전에 보탬이 되기를 기대합니다. <br>
-
-저는 **Object Detection, Segmentation & Tracking, 2D/3D Human Pose Estimation, Action Recognition, RAG, AI Agent, LLM Fine-Tuning, LLM-Agent Fine-Tuning, Agent Fine-Tuning with RL, ROS2, VLA, mobile robot, and robotic-arm control** 개발 경험을 가지고 있습니다. <br>
 
 저에 대한 이력을 확인하시려면, Work 탭을 확인해 주세요.
 
